@@ -39,7 +39,7 @@ nav ul {
 
 @font-face {
   font-family: 'MontserratBold';
-  src: url('Montserrat-Bold.ttf') format('truetype');
+  src: url('Montserrat/static/Montserrat-Regular.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
 }
@@ -48,7 +48,7 @@ nav ul li a {
   text-decoration: none;
   color: #b37c59;
   font-weight: 500;
-  font-size: 15px;
+  font-size: 17px;
   transition: color 0.2s ease;
   font-family: 'MontserratBold', sans-serif;
 }
